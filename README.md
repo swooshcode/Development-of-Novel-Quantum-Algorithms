@@ -29,24 +29,25 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 ### Team Information:
-Team Member 1: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 1: _(Nigel Kelly Phillips)_
+- Email: nigelphillips@pursuit.org
+- Discord ID: Nigel Phillips - USA
+- GitHub ID: swooshcode
+- Nationality: USA
+- Current affiliation: Pursuit, SNHU
 
-Team Member 2: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 2: _(Kazim Mumtaz)_
+- Email: kazimmumtaz43@gmail.com
+- Discord ID:1129297221142196316
+- GitHub ID: KazimMumtaz
+- Nationality: Pakistani
+- Current affiliation: N/A
 
-Team Member 3: _(full name)_
+
+Team Member 3: _(Tulsi Chaudhari)_
  - Email:
- - Discord ID:
- - GitHub ID:
+ - Discord ID: CrabbyPohtato
+ - GitHub ID: 
  - Nationality:
  - Current affiliation:
 
