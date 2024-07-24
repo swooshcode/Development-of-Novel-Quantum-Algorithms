@@ -45,11 +45,11 @@ Team Member 2: _(Kazim Mumtaz)_
 
 
 Team Member 3: _(Tulsi Chaudhari)_
- - Email:
+ - Email: Tchaudhari049@gmail.com
  - Discord ID: CrabbyPohtato
- - GitHub ID: 
- - Nationality:
- - Current affiliation:
+ - GitHub ID: Tatgithub02
+ - Nationality: Indian
+ - Current affiliation: N/A
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
