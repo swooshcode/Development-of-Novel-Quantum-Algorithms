@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.24)  24 JUL 2024 02:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.24)  24 JUL 2024 02:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -428,14 +428,14 @@ hanged.
 
 Package rerunfilecheck Info: Checksums for `Quantum_Portfolio_Optimization.out'
 :
-(rerunfilecheck)             Before: 95DB02774C404233ED0AE0439EE1590C;1787
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
 (rerunfilecheck)             After:  F784D4C2A3B28B2615D8E29465A03010;2320.
  ) 
 Here is how much of TeX's memory you used:
- 11024 strings out of 475567
- 166506 string characters out of 5777889
+ 11010 strings out of 475567
+ 166316 string characters out of 5777889
  1980187 words of memory out of 5000000
- 32945 multiletter control sequences out of 15000+600000
+ 32931 multiletter control sequences out of 15000+600000
  564286 words of font info for 57 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  75i,6n,79p,312b,2039s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -450,10 +450,10 @@ ic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/
 type1/public/cm-super/sfrm1000.pfb>
-Output written on Quantum_Portfolio_Optimization.pdf (5 pages, 146886 bytes).
+Output written on Quantum_Portfolio_Optimization.pdf (5 pages, 146510 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 212 compressed objects within 3 object streams
+ 201 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
  105 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
