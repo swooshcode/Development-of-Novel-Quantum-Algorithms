@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.24)  24 JUL 2024 02:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.24)  24 JUL 2024 02:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -288,8 +288,7 @@ ef
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count294
 \l__pdf_internal_box=\box55
-)
-No file Quantum_Portfolio_Optimization.aux.
+) (./Quantum_Portfolio_Optimization.aux)
 \openout1 = `Quantum_Portfolio_Optimization.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -310,6 +309,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
+
 (/usr/local/texlive/2024basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count295
@@ -335,28 +335,125 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring OFF on input line 11.
+ (./Quantum_Portfolio_Optimization.out) (./Quantum_Portfolio_Optimization.out)
 \@outlinefile=\write3
 \openout3 = `Quantum_Portfolio_Optimization.out'.
 
 \c@lstlisting=\count301
+ [1
 
-! Misplaced alignment tab character &.
-l.26     \item \textbf{Assets:} S&
-                                  P 500, EuroStoxx 50, Nikkei 225, FTSE 100,...
+{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/us
+r/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
+]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
+8.
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
 
-? 
-! Emergency stop.
-l.26 
-     
-End of file on the terminal!
+[2] (/usr/local/texlive/2024basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/02/21 1.10 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 101.
 
- 
+(../src/fetch_data.py
+Overfull \hbox (51.00403pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.00372pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (3.00354pt too wide) in paragraph at lines 11--12
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) (../src/preprocess_data.py [3]) (../src/create_bqm.py
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 12--13
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (267.00623pt too wide) in paragraph at lines 14--16
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 19--20
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) (../src/solve_bqm.py
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 11--12
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) (../src/measure_time.py [4]
+Overfull \hbox (33.00385pt too wide) in paragraph at lines 13--14
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (75.00427pt too wide) in paragraph at lines 15--16
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (51.00403pt too wide) in paragraph at lines 16--17
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (117.0047pt too wide) in paragraph at lines 17--105
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[5] (./Quantum_Portfolio_Optimization.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
+
+Package rerunfilecheck Warning: File `Quantum_Portfolio_Optimization.out' has c
+hanged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Quantum_Portfolio_Optimization.out'
+:
+(rerunfilecheck)             Before: 95DB02774C404233ED0AE0439EE1590C;1787
+(rerunfilecheck)             After:  F784D4C2A3B28B2615D8E29465A03010;2320.
+ ) 
 Here is how much of TeX's memory you used:
- 10359 strings out of 475567
- 158768 string characters out of 5777889
- 1927187 words of memory out of 5000000
- 32419 multiletter control sequences out of 15000+600000
- 563940 words of font info for 56 fonts, out of 8000000 for 9000
+ 11024 strings out of 475567
+ 166506 string characters out of 5777889
+ 1980187 words of memory out of 5000000
+ 32945 multiletter control sequences out of 15000+600000
+ 564286 words of font info for 57 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 75i,6n,79p,312b,400s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 75i,6n,79p,312b,2039s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+0.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx9.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/
+type1/public/cm-super/sfrm1000.pfb>
+Output written on Quantum_Portfolio_Optimization.pdf (5 pages, 146886 bytes).
+PDF statistics:
+ 242 PDF objects out of 1000 (max. 8388607)
+ 212 compressed objects within 3 object streams
+ 105 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+
